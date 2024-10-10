@@ -1,0 +1,7 @@
+C:\Users\sonic\source\repos\CSharpArray\NArray\bin\Debug\NArray.exe.config
+C:\Users\sonic\source\repos\CSharpArray\NArray\bin\Debug\NArray.exe
+C:\Users\sonic\source\repos\CSharpArray\NArray\bin\Debug\NArray.pdb
+C:\Users\sonic\source\repos\CSharpArray\NArray\obj\Debug\NArray.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\CSharpArray\NArray\obj\Debug\NArray.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\CSharpArray\NArray\obj\Debug\NArray.exe
+C:\Users\sonic\source\repos\CSharpArray\NArray\obj\Debug\NArray.pdb

@@ -1,0 +1,7 @@
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CalculatorFunction\bin\Debug\CalculatorFunction.exe.config
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CalculatorFunction\bin\Debug\CalculatorFunction.exe
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CalculatorFunction\bin\Debug\CalculatorFunction.pdb
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CalculatorFunction\obj\Debug\CalculatorFunction.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CalculatorFunction\obj\Debug\CalculatorFunction.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CalculatorFunction\obj\Debug\CalculatorFunction.exe
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CalculatorFunction\obj\Debug\CalculatorFunction.pdb

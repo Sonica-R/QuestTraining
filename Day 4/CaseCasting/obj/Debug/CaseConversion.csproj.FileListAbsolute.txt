@@ -1,0 +1,14 @@
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CaseCasting\obj\Debug\CaseConversion.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CaseCasting\obj\Debug\CaseConversion.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CaseCasting\bin\Debug\CaseCasting.exe.config
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CaseCasting\bin\Debug\CaseCasting.exe
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CaseCasting\bin\Debug\CaseCasting.pdb
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CaseCasting\obj\Debug\CaseCasting.exe
+C:\Users\sonic\source\repos\Day3.CSharpTraining\CaseCasting\obj\Debug\CaseCasting.pdb
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\CaseCasting\bin\Debug\CaseCasting.exe.config
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\CaseCasting\bin\Debug\CaseCasting.exe
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\CaseCasting\bin\Debug\CaseCasting.pdb
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\CaseCasting\obj\Debug\CaseConversion.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\CaseCasting\obj\Debug\CaseConversion.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\CaseCasting\obj\Debug\CaseCasting.exe
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\CaseCasting\obj\Debug\CaseCasting.pdb

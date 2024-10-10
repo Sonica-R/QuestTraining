@@ -1,0 +1,7 @@
+C:\Users\sonic\source\repos\CSharpArray\ArrayResizing\bin\Debug\ArrayResizing.exe.config
+C:\Users\sonic\source\repos\CSharpArray\ArrayResizing\bin\Debug\ArrayResizing.exe
+C:\Users\sonic\source\repos\CSharpArray\ArrayResizing\bin\Debug\ArrayResizing.pdb
+C:\Users\sonic\source\repos\CSharpArray\ArrayResizing\obj\Debug\ArrayResizing.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\CSharpArray\ArrayResizing\obj\Debug\ArrayResizing.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\CSharpArray\ArrayResizing\obj\Debug\ArrayResizing.exe
+C:\Users\sonic\source\repos\CSharpArray\ArrayResizing\obj\Debug\ArrayResizing.pdb

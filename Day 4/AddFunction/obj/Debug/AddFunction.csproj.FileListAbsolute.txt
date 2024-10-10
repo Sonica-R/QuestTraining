@@ -1,0 +1,7 @@
+C:\Users\sonic\source\repos\Day3.CSharpTraining\AddFunction\bin\Debug\AddFunction.exe.config
+C:\Users\sonic\source\repos\Day3.CSharpTraining\AddFunction\bin\Debug\AddFunction.exe
+C:\Users\sonic\source\repos\Day3.CSharpTraining\AddFunction\bin\Debug\AddFunction.pdb
+C:\Users\sonic\source\repos\Day3.CSharpTraining\AddFunction\obj\Debug\AddFunction.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\Day3.CSharpTraining\AddFunction\obj\Debug\AddFunction.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\Day3.CSharpTraining\AddFunction\obj\Debug\AddFunction.exe
+C:\Users\sonic\source\repos\Day3.CSharpTraining\AddFunction\obj\Debug\AddFunction.pdb

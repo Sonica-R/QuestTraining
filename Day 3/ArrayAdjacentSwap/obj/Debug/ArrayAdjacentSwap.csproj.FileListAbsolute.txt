@@ -1,0 +1,7 @@
+C:\Users\sonic\source\repos\CSharpArray\ArrayAdjacentSwap\bin\Debug\ArrayAdjacentSwap.exe.config
+C:\Users\sonic\source\repos\CSharpArray\ArrayAdjacentSwap\bin\Debug\ArrayAdjacentSwap.exe
+C:\Users\sonic\source\repos\CSharpArray\ArrayAdjacentSwap\bin\Debug\ArrayAdjacentSwap.pdb
+C:\Users\sonic\source\repos\CSharpArray\ArrayAdjacentSwap\obj\Debug\ArrayAdjacentSwap.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\CSharpArray\ArrayAdjacentSwap\obj\Debug\ArrayAdjacentSwap.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\CSharpArray\ArrayAdjacentSwap\obj\Debug\ArrayAdjacentSwap.exe
+C:\Users\sonic\source\repos\CSharpArray\ArrayAdjacentSwap\obj\Debug\ArrayAdjacentSwap.pdb

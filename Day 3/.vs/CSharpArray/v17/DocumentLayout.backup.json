@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5426186-AB27-439C-9A61-3687C4D6E4B2}|ArrayFunctions\\ArrayFunctions.csproj|c:\\users\\sonic\\source\\repos\\csharparray\\arrayfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5426186-AB27-439C-9A61-3687C4D6E4B2}|ArrayFunctions\\ArrayFunctions.csproj|solutionrelative:arrayfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E5457-3E17-41C3-9FC0-FE4028DBFED8}|ArrayAdjacentSwap\\ArrayAdjacentSwap.csproj|c:\\users\\sonic\\source\\repos\\csharparray\\arrayadjacentswap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642E5457-3E17-41C3-9FC0-FE4028DBFED8}|ArrayAdjacentSwap\\ArrayAdjacentSwap.csproj|solutionrelative:arrayadjacentswap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CD9EF8-C4A6-4BAE-A9CF-90745985F5CD}|ReverseArray\\ReverseArray.csproj|c:\\users\\sonic\\source\\repos\\csharparray\\reversearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CD9EF8-C4A6-4BAE-A9CF-90745985F5CD}|ReverseArray\\ReverseArray.csproj|solutionrelative:reversearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E23C04-00C3-4B29-B3B8-7B3FA2A31B8F}|SwitchCase\\SwitchCase.csproj|c:\\users\\sonic\\source\\repos\\csharparray\\switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E23C04-00C3-4B29-B3B8-7B3FA2A31B8F}|SwitchCase\\SwitchCase.csproj|solutionrelative:switchcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA018059-6DBC-40CB-A99B-6051CBBEBE40}|NArray\\NArray.csproj|c:\\users\\sonic\\source\\repos\\csharparray\\narray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA018059-6DBC-40CB-A99B-6051CBBEBE40}|NArray\\NArray.csproj|solutionrelative:narray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9109F7BE-D727-4A18-8301-45B5A4F88A40}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sonic\\source\\repos\\csharparray\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9109F7BE-D727-4A18-8301-45B5A4F88A40}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75017F52-65C5-4583-81C5-F71CFFFA91DE}|StringArray\\StringArray.csproj|c:\\users\\sonic\\source\\repos\\csharparray\\stringarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75017F52-65C5-4583-81C5-F71CFFFA91DE}|StringArray\\StringArray.csproj|solutionrelative:stringarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2673E43-A75B-4E98-A0F3-AF815D90EF6A}|ArrayResizing\\ArrayResizing.csproj|c:\\users\\sonic\\source\\repos\\csharparray\\arrayresizing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2673E43-A75B-4E98-A0F3-AF815D90EF6A}|ArrayResizing\\ArrayResizing.csproj|solutionrelative:arrayresizing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\ArrayFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayFunctions\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\ArrayFunctions\\Program.cs*",
+              "RelativeToolTip": "ArrayFunctions\\Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:48:46.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\ArrayAdjacentSwap\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayAdjacentSwap\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\ArrayAdjacentSwap\\Program.cs",
+              "RelativeToolTip": "ArrayAdjacentSwap\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T10:02:28.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\ReverseArray\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseArray\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\ReverseArray\\Program.cs",
+              "RelativeToolTip": "ReverseArray\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:38:23.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\SwitchCase\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchCase\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\SwitchCase\\Program.cs",
+              "RelativeToolTip": "SwitchCase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:09:46.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\NArray\\Program.cs",
+              "RelativeDocumentMoniker": "NArray\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\NArray\\Program.cs",
+              "RelativeToolTip": "NArray\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:42:31.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\ArrayResizing\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayResizing\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\ArrayResizing\\Program.cs",
+              "RelativeToolTip": "ArrayResizing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:25:08.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\StringArray\\Program.cs",
+              "RelativeDocumentMoniker": "StringArray\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\StringArray\\Program.cs",
+              "RelativeToolTip": "StringArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:58:00.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\CSharpArray\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:14:05.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

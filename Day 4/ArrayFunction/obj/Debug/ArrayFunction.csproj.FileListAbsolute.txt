@@ -1,0 +1,7 @@
+C:\Users\sonic\source\repos\Day3.CSharpTraining\ArrayFunction\bin\Debug\ArrayFunction.exe.config
+C:\Users\sonic\source\repos\Day3.CSharpTraining\ArrayFunction\bin\Debug\ArrayFunction.exe
+C:\Users\sonic\source\repos\Day3.CSharpTraining\ArrayFunction\bin\Debug\ArrayFunction.pdb
+C:\Users\sonic\source\repos\Day3.CSharpTraining\ArrayFunction\obj\Debug\ArrayFunction.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\Day3.CSharpTraining\ArrayFunction\obj\Debug\ArrayFunction.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\Day3.CSharpTraining\ArrayFunction\obj\Debug\ArrayFunction.exe
+C:\Users\sonic\source\repos\Day3.CSharpTraining\ArrayFunction\obj\Debug\ArrayFunction.pdb

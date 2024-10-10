@@ -1,0 +1,220 @@
+Q1: Explain what DDL, DML, DCL, TCL, DQL commands and its types.
+
+							Data Definition Language (DDL) 
+
+These are commands used to define, modify, and manage database structures. Different type of DDL Commands include:
+
+1) CREATE :
+	Used to create new database objects like tables, views, indexes, or databases.
+	Example:
+		CREATE TABLE Students (
+    		StudentID INT PRIMARY KEY,
+    		Name VARCHAR(100),
+    		Age INT
+		);
+
+2) ALTER:
+
+	Used to modify existing database objects. With this command we can add, delete, or modify columns in a table.
+	Example:
+		ALTER TABLE Students
+		ADD Email VARCHAR(255);
+
+3) DROP:
+
+	Used to delete existing database objects. Once a table or database is dropped, all data within it is lost.
+	Example:
+		DROP TABLE Students;
+
+4) TRUNCATE:
+
+	Used to remove all records from a table without deleting the table itself. This command can't be rolled back.
+	Example:
+		TRUNCATE TABLE Students;
+	
+5) RENAME:
+
+	Used to rename an existing database object.
+	Example:
+		RENAME TABLE Students TO Pupils;
+
+6) COMMENT:
+
+	Used to add comments to the data dictionary of a database object.
+	Example:
+		COMMENT ON COLUMN Students.Name IS 'The name of the student';
+
+7) DESCRIBE (or DESC):
+
+	Used to display the structure of a table, showing the columns, data types, and constraints
+	Example:
+		DESC Students;
+
+
+						Data Manipulation Language (DML)
+
+These commands are used to manipulate and manage the data within the existing database structures created by DDL commands. These operations helps us to insert, update, delete, and retrieve data from the database. Different type of DML Commands include:
+
+1) INSERT:
+
+	Used to add new rows of data into a table.
+	Example:
+		INSERT INTO Students (StudentID, Name, Age)
+		VALUES (1, 'John Doe', 20);
+
+2) UPDATE:
+
+	Used to modify existing data in a table
+	Example:
+		UPDATE Students
+		SET Age = 21
+		WHERE StudentID = 1;
+
+3) DELETE: 
+	
+	Used to remove existing rows from a table.
+	Example:
+		DELETE FROM Students
+		WHERE StudentID = 1;
+
+4) SELECT:
+	
+	Used to query and retrieve one or more datas from tables. 
+	Example:
+
+		SELECT * FROM Students;
+
+							Data Control Language (DCL)
+
+DCL commands are used to control access to data within a database. These commands manages permissions and access rights to users. Different types include:
+
+1) GRANT:
+	Used to give users permission to perform specific actions on database objects (like tables, views, procedures, etc.).
+	It provides specific privileges to users which includes SELECT, INSERT, UPDATE, DELETE, EXECUTE
+
+2) REVOKE:
+	Used to remove previously granted permissions from users.
+
+
+							Transaction Control Language (TCL)
+
+TCL commands are used to manage transactions in a database. Transactions ensure that the operations are executed as a single unit of work, which either all succeed (commit) or all fail (rollback) to maintain data integrity. Different types includes:
+
+1) COMMIT:
+	Saves all changes made during the current transaction to the database permanently. Once committed, the changes cannot be undone.	
+	Example:
+		BEGIN;
+		INSERT INTO Students (StudentID, Name, Age) VALUES (1, 'John Doe', 20);
+		INSERT INTO Students (StudentID, Name, Age) VALUES (2, 'Jane Smith', 22);
+		COMMIT;
+
+2) ROLLBACK:
+	Reverts all changes made during the current transaction. This is useful when an error occurs, and you want to undo changes that haven’t yet been committed.
+	Example:
+		BEGIN;
+		INSERT INTO Students (StudentID, Name, Age) VALUES (3, 'Alice Johnson', 19);
+		--If made some mistake
+		ROLLBACK;
+
+3) SAVEPOINT:
+	Sets a point within a transaction to which you can roll back if needed, without rolling back the entire transaction.
+	Example:
+		BEGIN;
+		INSERT INTO Students (StudentID, Name, Age) VALUES (4, 'Michael Brown', 25);
+		SAVEPOINT SavePoint1;
+		INSERT INTO Students (StudentID, Name, Age) VALUES (5, 'Sarah Connor', 24);
+		-- If wrong data entered
+		ROLLBACK TO SavePoint1;
+		COMMIT;
+
+4) SET TRANSACTION:
+	Defines the properties for the current transaction, such as its isolation level. This isolates a transaction thus preventing other transactions from 	interacting with the same data until the current transaction is complete.
+	Example:
+		SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;
+		BEGIN;
+		INSERT INTO Students (StudentID, Name, Age) VALUES (6, 'Mark Davis', 23);
+		COMMIT;
+
+							Data Query Language (DQL)
+DQL commands are used to query and retrieve data from a database which consists primarily of the SELECT statement. Unlike DML commands that modify the data, DQL is strictly used for querying data. Types includes:
+
+1) SELECT Query:
+	A basic query that retrieves specific columns or all columns from a table.
+	Example:
+		SELECT * FROM Students;
+		-Fetches all columns from the Students table.
+2) SELECT with WHERE Clause:
+	Used to filter the rows that meet a specific condition.
+	Example:
+		SELECT Name, Age 
+		FROM Students 
+		WHERE Age = 20;
+		--This retrieves the Name and Age of students who are exactly 20 years old.
+
+3) SELECT with ORDER BY:
+	Used to sort the result set in ascending (ASC) or descending (DESC) order.
+	Example:
+		SELECT Name, Age 
+		FROM Students 
+		ORDER BY Age DESC;
+		--This query retrieves students' names and ages, sorted by age in descending order.
+
+4) SELECT with GROUP BY:
+	Used to group rows that have the same values in specified columns. It’s often used with aggregate functions like COUNT, SUM, AVG, MIN, and MAX.
+	Example:
+		SELECT Age, COUNT(StudentID) 
+		FROM Students 
+		GROUP BY Age;
+		--This query counts the number of students for each age group.
+
+5) SELECT with HAVING Clause:
+	Similar to the WHERE clause, but applied to grouped data after using GROUP BY.
+	Example:
+		SELECT Age, COUNT(StudentID) 
+		FROM Students 
+		GROUP BY Age 
+		HAVING COUNT(StudentID) > 1;
+		--This query retrieves age groups where there is more than one student.
+6) SELECT with JOIN:
+	Used to retrieve data from multiple tables based on a related column between them. Types of Joins includes:
+
+	INNER JOIN: 
+		Retrieves rows with matching values in both tables.
+	LEFT JOIN:
+		 Retrieves all rows from the left table and the matching rows from the right table. Non-matching rows from the right table will have NULL 		 values.
+	RIGHT JOIN:
+		Retrieves all rows from the right table and the matching rows from the left table. Non-matching rows from the left table will have NULL 		values.
+
+7) SELECT with Aggregate Functions:
+	Used to perform calculations on a set of values and return a single value. These functions includes:
+
+		COUNT(): Counts the number of rows.
+		SUM(): Adds all values in a column.
+		AVG(): Returns the average value.
+		MIN(): Returns the minimum value.
+		MAX(): Returns the maximum value.
+
+Q2. Explain DISTINCT, VIEWS and INDEX.
+
+DISTINCT :
+	DISTINCT is used in SQL to remove duplicate rows from the result set of a query. When you retrieve data from a table, some columns might have 	duplicate values, and DISTINCT ensures that only unique values are returned.
+	Example:
+		SELECT DISTINCT Age
+		FROM Students;
+
+INDEX:
+	An INDEX is a database object that improves the speed of data retrieval operations on a table by allowing the database to quickly locate specific 	rows. Indexes are created on columns that are frequently searched.
+	Example:
+		CREATE INDEX ind_age
+		ON Students (Age);
+VIEWS:
+	A VIEW is a virtual table that is based on the result of a SQL query. Unlike a physical table, a view doesn't store data itself but provides a way 	to look at data from one or more tables. You can think of it as a saved query that can be treated like a table. We can edit datas in VIEWS only it 	can be viewed. ORDER BY CLAUSE can't be used within VIEWS.
+	
+	It is useful in case of complicated queries. If we want to reuse it we can create it as a VIEW thus making it easier to access the queries just with 	their names each time we want to access that query.
+	Example:
+		CREATE VIEW AdultStudents AS
+		SELECT Name, Age
+		FROM Students
+		WHERE Age >= 18;
+
+

@@ -1,0 +1,7 @@
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NumToString\bin\Debug\NumToString.exe.config
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NumToString\bin\Debug\NumToString.exe
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NumToString\bin\Debug\NumToString.pdb
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NumToString\obj\Debug\NumToString.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NumToString\obj\Debug\NumToString.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NumToString\obj\Debug\NumToString.exe
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NumToString\obj\Debug\NumToString.pdb

@@ -1,0 +1,7 @@
+C:\Users\sonic\source\repos\CSharpArray\StringArray\bin\Debug\StringArray.exe.config
+C:\Users\sonic\source\repos\CSharpArray\StringArray\bin\Debug\StringArray.exe
+C:\Users\sonic\source\repos\CSharpArray\StringArray\bin\Debug\StringArray.pdb
+C:\Users\sonic\source\repos\CSharpArray\StringArray\obj\Debug\StringArray.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\CSharpArray\StringArray\obj\Debug\StringArray.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\CSharpArray\StringArray\obj\Debug\StringArray.exe
+C:\Users\sonic\source\repos\CSharpArray\StringArray\obj\Debug\StringArray.pdb

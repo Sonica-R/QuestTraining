@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71AB38D3-E43E-4271-ABC7-4CED8B867BB0}|StringBuilder\\StringBuilder.csproj|C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AB38D3-E43E-4271-ABC7-4CED8B867BB0}|StringBuilder\\StringBuilder.csproj|solutionrelative:stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935AC56D-D639-4D7F-9D3C-17BD99BDD3CA}|Vowels\\Vowels.csproj|C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\vowels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935AC56D-D639-4D7F-9D3C-17BD99BDD3CA}|Vowels\\Vowels.csproj|solutionrelative:vowels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90A770C-D0D7-4FA3-8214-861DF8F9DB7D}|StringSearchFntn\\StringSearchFntn.csproj|C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\stringsearchfntn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90A770C-D0D7-4FA3-8214-861DF8F9DB7D}|StringSearchFntn\\StringSearchFntn.csproj|solutionrelative:stringsearchfntn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70F7C1-6F0C-406B-97D9-152EC8C9D8D7}|NumToString\\NumToString.csproj|C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\numtostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D70F7C1-6F0C-406B-97D9-152EC8C9D8D7}|NumToString\\NumToString.csproj|solutionrelative:numtostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226B29B8-1A29-4F92-ACAD-AC8BC7ED52EE}|ReplaceString\\ReplaceString.csproj|C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\replacestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226B29B8-1A29-4F92-ACAD-AC8BC7ED52EE}|ReplaceString\\ReplaceString.csproj|solutionrelative:replacestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1868743-475D-4C82-8326-D8EB4A17CAD5}|SingleLineFntns\\SingleLineFntns.csproj|C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\singlelinefntns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1868743-475D-4C82-8326-D8EB4A17CAD5}|SingleLineFntns\\SingleLineFntns.csproj|solutionrelative:singlelinefntns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C38D16-1805-4E9F-B4DD-D76E6A1D04D5}|PatternPrint\\PatternPrint.csproj|C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\patternprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C38D16-1805-4E9F-B4DD-D76E6A1D04D5}|PatternPrint\\PatternPrint.csproj|solutionrelative:patternprint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962EDD52-CDFA-4352-87A1-6CC7DA9A2089}|PalindromeString\\PalindromeString.csproj|C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\palindromestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962EDD52-CDFA-4352-87A1-6CC7DA9A2089}|PalindromeString\\PalindromeString.csproj|solutionrelative:palindromestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA8D345-B6C7-48D2-BDCD-E56094A577D8}|NamesToUpperFntn\\NamesToUpperFntn.csproj|C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\namestoupperfntn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA8D345-B6C7-48D2-BDCD-E56094A577D8}|NamesToUpperFntn\\NamesToUpperFntn.csproj|solutionrelative:namestoupperfntn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18FACEC-AA9D-413F-90E7-2E34AFB04455}|AddFunction\\AddFunction.csproj|c:\\users\\sonic\\source\\repos\\questcsharptraining\\day 4\\addfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18FACEC-AA9D-413F-90E7-2E34AFB04455}|AddFunction\\AddFunction.csproj|solutionrelative:addfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D5211-0019-4FCB-803A-DF7A52D9FA7B}|CaseCasting\\CaseCasting.csproj|C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\casecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D5211-0019-4FCB-803A-DF7A52D9FA7B}|CaseCasting\\CaseCasting.csproj|solutionrelative:casecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E74B1C-4328-4A7E-BF03-D540B08AEE53}|CalculatorFunction\\CalculatorFunction.csproj|C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\calculatorfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E74B1C-4328-4A7E-BF03-D540B08AEE53}|CalculatorFunction\\CalculatorFunction.csproj|solutionrelative:calculatorfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A12C73-0A1B-482B-802F-8C54C7AB24B3}|ArrayFunction\\ArrayFunction.csproj|C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\arrayfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A12C73-0A1B-482B-802F-8C54C7AB24B3}|ArrayFunction\\ArrayFunction.csproj|solutionrelative:arrayfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\NumToString\\Program.cs",
+              "RelativeDocumentMoniker": "NumToString\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\NumToString\\Program.cs",
+              "RelativeToolTip": "NumToString\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:10:20.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\PatternPrint\\Program.cs",
+              "RelativeDocumentMoniker": "PatternPrint\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\PatternPrint\\Program.cs",
+              "RelativeToolTip": "PatternPrint\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:09:59.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\ReplaceString\\Program.cs",
+              "RelativeDocumentMoniker": "ReplaceString\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\ReplaceString\\Program.cs",
+              "RelativeToolTip": "ReplaceString\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:42:33.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\SingleLineFntns\\Program.cs",
+              "RelativeDocumentMoniker": "SingleLineFntns\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\SingleLineFntns\\Program.cs",
+              "RelativeToolTip": "SingleLineFntns\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:38:14.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\StringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "StringBuilder\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\StringBuilder\\Program.cs",
+              "RelativeToolTip": "StringBuilder\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:46:54.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\StringSearchFntn\\Program.cs",
+              "RelativeDocumentMoniker": "StringSearchFntn\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\StringSearchFntn\\Program.cs",
+              "RelativeToolTip": "StringSearchFntn\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:11:31.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\Vowels\\Program.cs",
+              "RelativeDocumentMoniker": "Vowels\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\Vowels\\Program.cs",
+              "RelativeToolTip": "Vowels\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:04:23.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\PalindromeString\\Program.cs",
+              "RelativeDocumentMoniker": "PalindromeString\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\PalindromeString\\Program.cs",
+              "RelativeToolTip": "PalindromeString\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:08:27.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\NamesToUpperFntn\\Program.cs",
+              "RelativeDocumentMoniker": "NamesToUpperFntn\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\NamesToUpperFntn\\Program.cs",
+              "RelativeToolTip": "NamesToUpperFntn\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:48:15.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\AddFunction\\Program.cs",
+              "RelativeDocumentMoniker": "AddFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\AddFunction\\Program.cs",
+              "RelativeToolTip": "AddFunction\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:01:23.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\CalculatorFunction\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\CalculatorFunction\\Program.cs",
+              "RelativeToolTip": "CalculatorFunction\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:12:27.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\ArrayFunction\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\ArrayFunction\\Program.cs",
+              "RelativeToolTip": "ArrayFunction\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:51:40.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\CaseCasting\\Program.cs",
+              "RelativeDocumentMoniker": "CaseCasting\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\source\\repos\\QuestCSharpTraining\\Day 4\\CaseCasting\\Program.cs",
+              "RelativeToolTip": "CaseCasting\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:02:45.376Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

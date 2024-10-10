@@ -1,0 +1,7 @@
+C:\Users\sonic\source\repos\CSharpArray\ReverseArray\bin\Debug\ReverseArray.exe.config
+C:\Users\sonic\source\repos\CSharpArray\ReverseArray\bin\Debug\ReverseArray.exe
+C:\Users\sonic\source\repos\CSharpArray\ReverseArray\bin\Debug\ReverseArray.pdb
+C:\Users\sonic\source\repos\CSharpArray\ReverseArray\obj\Debug\ReverseArray.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\CSharpArray\ReverseArray\obj\Debug\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\CSharpArray\ReverseArray\obj\Debug\ReverseArray.exe
+C:\Users\sonic\source\repos\CSharpArray\ReverseArray\obj\Debug\ReverseArray.pdb

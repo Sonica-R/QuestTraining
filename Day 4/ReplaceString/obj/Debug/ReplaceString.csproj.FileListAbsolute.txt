@@ -1,0 +1,7 @@
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\ReplaceString\bin\Debug\ReplaceString.exe.config
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\ReplaceString\bin\Debug\ReplaceString.exe
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\ReplaceString\bin\Debug\ReplaceString.pdb
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\ReplaceString\obj\Debug\ReplaceString.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\ReplaceString\obj\Debug\ReplaceString.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\ReplaceString\obj\Debug\ReplaceString.exe
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\ReplaceString\obj\Debug\ReplaceString.pdb

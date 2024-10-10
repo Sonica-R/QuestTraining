@@ -1,0 +1,7 @@
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NamesToUpperFntn\bin\Debug\NamesToUpperFntn.exe.config
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NamesToUpperFntn\bin\Debug\NamesToUpperFntn.exe
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NamesToUpperFntn\bin\Debug\NamesToUpperFntn.pdb
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NamesToUpperFntn\obj\Debug\NamesToUpperFntn.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NamesToUpperFntn\obj\Debug\NamesToUpperFntn.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NamesToUpperFntn\obj\Debug\NamesToUpperFntn.exe
+C:\Users\sonic\source\repos\QuestCSharpTraining\Day 4\NamesToUpperFntn\obj\Debug\NamesToUpperFntn.pdb

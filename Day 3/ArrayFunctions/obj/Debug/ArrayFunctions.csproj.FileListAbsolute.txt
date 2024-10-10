@@ -1,0 +1,7 @@
+C:\Users\sonic\source\repos\CSharpArray\ArrayFunctions\bin\Debug\ArrayFunctions.exe.config
+C:\Users\sonic\source\repos\CSharpArray\ArrayFunctions\bin\Debug\ArrayFunctions.exe
+C:\Users\sonic\source\repos\CSharpArray\ArrayFunctions\bin\Debug\ArrayFunctions.pdb
+C:\Users\sonic\source\repos\CSharpArray\ArrayFunctions\obj\Debug\ArrayFunctions.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\CSharpArray\ArrayFunctions\obj\Debug\ArrayFunctions.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\CSharpArray\ArrayFunctions\obj\Debug\ArrayFunctions.exe
+C:\Users\sonic\source\repos\CSharpArray\ArrayFunctions\obj\Debug\ArrayFunctions.pdb
