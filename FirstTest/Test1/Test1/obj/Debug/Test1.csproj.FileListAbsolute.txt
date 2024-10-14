@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\FirstTest\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\FirstTest\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\FirstTest\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\FirstTest\Test1\Test1\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\FirstTest\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\FirstTest\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\FirstTest\Test1\Test1\obj\Debug\Test1.pdb

@@ -76,13 +76,12 @@ namespace InventoryManagement
                         case "1":
                             AddProduct(products);
                             break;
-                            case "2":
-                                Update Stock(products);
-                                break;
-                            case "3":
-                                GetProductDetails(products);
-                                break;
-
+                        case "2":
+                             Update Stock(products);
+                             break;
+                        case "3":
+                             GetProductDetails(products);
+                             break;
                     }
                 }
             }

@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 1\HospitalManagementSystem\HospitalManagement\bin\Debug\HospitalManagement.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 1\HospitalManagementSystem\HospitalManagement\bin\Debug\HospitalManagement.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 1\HospitalManagementSystem\HospitalManagement\bin\Debug\HospitalManagement.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 1\HospitalManagementSystem\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 1\HospitalManagementSystem\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 1\HospitalManagementSystem\HospitalManagement\obj\Debug\HospitalManagement.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 1\HospitalManagementSystem\HospitalManagement\obj\Debug\HospitalManagement.pdb
