@@ -16,7 +16,7 @@ namespace CaseCasting
 
             foreach (var ch in text)
             {
-                char res = char.IsLower(ch) ? char.ToUpper(ch) : char.ToLower(ch);
+                char res = char.IsUpper(ch) ? char.ToLower(ch) : char.ToUpper(ch);
                 output += res;
             }
 

@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 9\PatientsFunction\PatientsFunction\bin\Debug\PatientsFunction.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 9\PatientsFunction\PatientsFunction\bin\Debug\PatientsFunction.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 9\PatientsFunction\PatientsFunction\bin\Debug\PatientsFunction.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 9\PatientsFunction\PatientsFunction\obj\Debug\PatientsFunction.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 9\PatientsFunction\PatientsFunction\obj\Debug\PatientsFunction.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 9\PatientsFunction\PatientsFunction\obj\Debug\PatientsFunction.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 9\PatientsFunction\PatientsFunction\obj\Debug\PatientsFunction.pdb

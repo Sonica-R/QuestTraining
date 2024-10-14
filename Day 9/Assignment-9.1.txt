@@ -1,0 +1,620 @@
+								ASSIGNMENT DAY 9
+
+Q1) What is array, list, dictionary and string
+
+String : String type is a fundamental data type used to represent sequences of characters. Strings are immutable, meaning once a string is created, it cannot be modified; however, you can create a new string with modified content. These are refence types that is when we pass a reference type data it makes changes to the actual data and not on the copy of it. These reference types are stored in heap memory.
+
+String Declaration :
+	string s = "New string";
+
+String function :
+	String functions includes those which ae used
+
+1. Length :
+	Returns the number of characters in the string.
+
+	string str = "Hello";
+	Console.WriteLine(str.Length); // Output: 5
+
+
+2. ToUpper() :
+	Converts the string to uppercase.
+
+	string str = "hello";
+	Console.WriteLine(str.ToUpper()); // Output: HELLO
+
+
+3. ToLower() :
+	Converts the string to lowercase.
+
+	string str = "HELLO";
+	Console.WriteLine(str.ToLower()); // Output: hello
+
+4. Trim() :
+	Removes all leading and trailing whitespace characters.
+
+	string str = "  Hello World  ";
+	Console.WriteLine(str.Trim()); // Output: "Hello World"
+
+5. Substring() :
+	Extracts a substring from the string.
+
+	string str = "Hello World";
+	Console.WriteLine(str.Substring(6, 5)); // Output: World 
+
+6. IndexOf():
+	Returns the zero-based index of the first occurrence of a specified string.
+
+	string str = "Hello World";
+	Console.WriteLine(str.IndexOf("World")); // Output: 6
+
+7. LastIndexOf() :
+	Returns the zero-based index of the last occurrence of a specified string.
+
+	string str = "Hello World, Welcome to the World";
+	Console.WriteLine(str.LastIndexOf("World")); // Output: 26
+
+8. Replace():
+	Replaces all occurrences of a specified substring with another substring.
+
+	string str = "Hello World";
+	Console.WriteLine(str.Replace("World", "C#")); // Output: Hello C#
+
+9. Split() :
+	Splits a string into an array of substrings based on a specified delimiter.
+
+	string str = "apple,banana,orange";
+	string[] fruits = str.Split(',');
+	foreach (var fruit in fruits)
+	{
+    		Console.WriteLine(fruit); // Output: apple banana orange
+	}
+
+10. Join() :
+	Concatenates the elements of a string array, using a specified separator between each element.
+
+	string[] fruits = { "apple", "banana", "orange" };
+	Console.WriteLine(string.Join(", ", fruits)); // Output: apple, banana, orange
+
+11. StartsWith() :
+	Determines whether the string starts with a specified substring.
+
+	string str = "Hello World";
+	Console.WriteLine(str.StartsWith("Hello")); // Output: True
+
+12. EndsWith() :
+	Determines whether the string ends with a specified substring.
+
+	string str = "Hello World";
+	Console.WriteLine(str.EndsWith("World")); // Output: True
+
+13. Contains() :
+	Determines whether the string contains a specified substring.
+
+	string str = "Hello World";
+	Console.WriteLine(str.Contains("World")); // Output: True
+
+14. PadLeft() :
+	Pads the string on the left with spaces (or a specified character) to reach a specified length.
+
+	string str = "5";
+	Console.WriteLine(str.PadLeft(2, '0')); // Output: 05
+
+15. PadRight() :
+	Pads the string on the right with spaces (or a specified character) to reach a specified length.
+
+	string str = "5";
+	Console.WriteLine(str.PadRight(2, '0')); // Output: 50
+
+16. TrimStart() :
+	Removes all leading whitespace characters from the string.
+
+	string str = "  Hello World  ";
+	Console.WriteLine(str.TrimStart()); // Output: "Hello World  "
+
+17. TrimEnd() :
+	Removes all trailing whitespace characters from the string.
+
+	string str = "  Hello World  ";
+	Console.WriteLine(str.TrimEnd()); // Output: "  Hello World"
+
+18. ToCharArray() :
+	Converts the string to a character array.
+
+	string str = "Hello";
+	char[] charArray = str.ToCharArray();
+	Console.WriteLine(charArray[0]); // Output: H
+
+
+19. Insert() :
+	Inserts a specified string at a specified index position.
+
+	string str = "Hello World";
+	Console.WriteLine(str.Insert(5, ", C#")); // Output: Hello, C# World
+
+
+20. Remove() :
+	Deletes a specified number of characters from the string, starting at a specified index.
+
+	string str = "Hello World";
+	Console.WriteLine(str.Remove(5, 6)); // Output: Hello
+
+
+21. Equals() :
+	Determines whether two specified string instances are equal.
+
+	string str1 = "Hello";
+	string str2 = "Hello";
+	Console.WriteLine(str1.Equals(str2)); // Output: True
+
+
+22. Format() :
+	Formats a string using placeholders.
+
+	string name = "John";
+	int age = 30;
+	Console.WriteLine(string.Format("My name is {0} and I am {1} years old.", name, age)); // Output: My name is John and I am 30 years old.
+
+23. String Interpolation :
+	A modern way to format strings in C#.
+
+	string name = "John";
+	int age = 30;
+	Console.WriteLine($"My name is {name} and I am {age} years old."); // Output: My name is John and I am 30 years old.
+
+24. EqualsIgnoreCase() :
+	Compares two strings and ignores case.
+
+	string str1 = "hello";
+	string str2 = "HELLO";
+	Console.WriteLine(string.Equals(str1, str2, StringComparison.OrdinalIgnoreCase)); // Output: True
+
+
+25. Compare() :
+	Compares two strings and returns an integer that indicates their relative position in the sort order.
+
+	string str1 = "abc";
+	string str2 = "def";
+	Console.WriteLine(string.Compare(str1, str2)); // Output: Negative number (str1 is less than str2)
+
+
+26. CompareTo() :
+	Compares this instance to a specified object and returns an integer that indicates whether this instance precedes, follows, or appears in the same 	position in the sort order as the specified object.
+
+	string str1 = "abc";
+	Console.WriteLine(str1.CompareTo("def")); // Output: Negative number
+
+
+27. GetHashCode() :
+	Returns a hash code for the string.
+
+	string str = "Hello";
+	Console.WriteLine(str.GetHashCode());
+
+
+28. ToString() :
+	Returns the string representation of the current instance.
+
+
+	object obj = "Hello World";
+	string str = obj.ToString(); // Output: Hello World
+
+
+29. Copy() :
+	Creates a new instance of String with the same value as a specified String.
+
+	string str = "Hello";
+	string copy = string.Copy(str);
+	Console.WriteLine(copy); // Output: Hello
+
+
+30. Contains() :
+	Checks if a string contains a specific substring.
+
+	string str = "Hello World";
+	Console.WriteLine(str.Contains("World")); // Output: True
+
+
+Array : A linear and static data structure where multiple datas can be stored in contiguous memory location. The datas are stored in a specific order and the ordering is based on the indexes each array data hold. Datas can be accessed using these indexes. And also to get the length of an array we use array.Length function. It is a collection of similar data types.
+If an array once declared with its size specified we can't add datas more than that specified array size. In order to do that we use Array Resize function.
+
+Array Declaration :
+	int[] Array1 = new int[5];
+	int[] Array2 = new int[] {1, 2, 3, 4};
+	var Array3 = new int[5];
+
+Array function :
+
+1) Array.Length:
+
+	Function to get the number of elements in the array.
+	Example: int length = newArray.Length;
+
+2) Array.Sort():
+
+	Sorts the array elements in the entire array.
+	Example : Array.Sort(newArray);
+3) Array.Reverse():
+	Used to reverse the array elements
+	Example : Array.Reverse(newArray);
+4) Array.Resize() :
+
+	Used to resize an array by referring to the existing array.
+	Example : Array.Resize(ref newArray, arr.Length * 2);
+
+5) Array.Copy():
+
+	Copies a range of elements from one array to another.
+	Example : Array.Copy(sourceArray, destinationArray, length);
+
+6) Array.IndexOf():
+	Searches for the specified object and returns the index of its first occurrence in the array.
+	int index = Array.IndexOf(myArray, value);
+
+7) Array.Reverse():
+
+	Reverses the order of the elements in the entire array or a range of elements.
+	Array.Reverse(myArray);
+
+8) Array.Resize<T>():
+
+	Changes the size of a one-dimensional array to the specified new size.
+	 Array.Resize(ref myArray, newSize);
+
+9) Array.ForEach():
+
+	Executes a specified action on each element of the array (available through LINQ).
+	Searches for the specified object and returns the index of its first occurrence in the array.
+	int index = Array.IndexOf(myArray, value);
+
+10)  Rank Property:
+
+	Returns the number of dimensions of the array.
+
+	int[] matrix = new int[3, 2];
+	Console.WriteLine(matrix.Rank); // Output: 2
+
+11) CreateInstance(Type type, int length) :
+
+	Creates a new array of the specified type and length.
+
+	int[] numbers = (int[])Array.CreateInstance(typeof(int), 5);
+	Console.WriteLine(numbers.Length); // Output: 5
+
+12) IndexOf(Array array, object value):
+	Searches for the specified object and returns the zero-based index of the first occurrence within the entire array.
+
+	int[] numbers = { 1, 2, 3, 4, 5 };
+	int index = Array.IndexOf(numbers, 3);
+	Console.WriteLine(index); // Output: 2
+
+13) LastIndexOf(Array array, object value) :
+	Searches for the specified object and returns the zero-based index of the last occurrence within the entire array.
+
+	int[] numbers = { 1, 2, 3, 4, 5, 3 };
+	int index = Array.LastIndexOf(numbers, 3);
+	Console.WriteLine(index); // Output: 5
+
+14) Resize(ref Array array, int newSize) :
+	Resizes an array to the specified size.
+
+	int[] numbers = { 1, 2, 3, 4, 5 };
+	Console.WriteLine("Original array: " + string.Join(", ", numbers));
+	Array.Resize(ref numbers, 8);
+	Console.WriteLine("Resized array: " + string.Join(", ", numbers));
+
+		
+List : List is a dynamic data structure where datas can be stored in similar to that of array. But in here, the size of the list can be altered or added on as it is dynamic.	In list, we use count property to get the length of the list instead of Length as here we don't have a specified length defined like that of an array. It is included in the namespace System.Collections.Generic.
+
+List Declaration :
+	List<int> list1 = new List<int>();
+	var list2 = new List<int>();
+
+List function include:
+
+1. Add() :
+	Adds a single element to the end of the list.
+
+
+	List<int> numbers = new List<int>();
+	numbers.Add(10);
+	numbers.Add(20);
+	Console.WriteLine(string.Join(", ", numbers)); // Output: 10, 20
+
+2. AddRange() :
+Adds multiple elements to the end of the list from another collection (like an array or another list).
+
+	List<int> numbers = new List<int> { 10, 20 };
+	int[] moreNumbers = { 30, 40, 50 };
+	numbers.AddRange(moreNumbers);
+	Console.WriteLine(string.Join(", ", numbers)); // Output: 10, 20, 30, 40, 50
+
+3. Insert() :
+	Inserts an element at a specific index in the list.
+
+	List<int> numbers = new List<int> { 10, 20, 30 };
+	numbers.Insert(1, 15); // Insert 15 at index 1
+	Console.WriteLine(string.Join(", ", numbers)); // Output: 10, 15, 20, 30
+
+4. InsertRange():
+	Inserts a collection of elements at a specific index.
+
+	List<int> numbers = new List<int> { 10, 20, 30 };
+	numbers.InsertRange(1, new int[] { 11, 12 });
+	Console.WriteLine(string.Join(", ", numbers)); // Output: 10, 11, 12, 20, 30
+
+5. Remove() :
+	Removes the first occurrence of a specific element.
+
+	List<int> numbers = new List<int> { 10, 20, 30, 20 };
+	numbers.Remove(20); // Removes the first 20
+	Console.WriteLine(string.Join(", ", numbers)); // Output: 10, 30, 20
+
+6. RemoveAt() :
+	Removes the element at the specified index.
+
+	List<int> numbers = new List<int> { 10, 20, 30 };
+	numbers.RemoveAt(1); // Removes element at index 1 (20)
+	Console.WriteLine(string.Join(", ", numbers)); // Output: 10, 30
+
+7. RemoveRange():
+	Removes a range of elements starting from a specified index.
+
+	List<int> numbers = new List<int> { 10, 20, 30, 40, 50 };
+	numbers.RemoveRange(1, 3); // Removes 3 elements starting from index 1 (20, 30, 40)
+	Console.WriteLine(string.Join(", ", numbers)); // Output: 10, 50
+
+8. Clear() :
+	Removes all elements from the list.
+
+	List<int> numbers = new List<int> { 10, 20, 30 };
+	numbers.Clear();
+	Console.WriteLine(numbers.Count); // Output: 0
+
+9. Contains() :
+	Checks if a list contains a specific element.
+
+	List<int> numbers = new List<int> { 10, 20, 30 };
+	bool has20 = numbers.Contains(20);
+	Console.WriteLine(has20); // Output: True
+
+10. IndexOf() :
+	Finds the index of the first occurrence of a specific element.
+
+	List<int> numbers = new List<int> { 10, 20, 30, 20 };
+	int index = numbers.IndexOf(20);
+	Console.WriteLine(index); // Output: 1 (first occurrence of 20)
+
+11. LastIndexOf():
+	Finds the index of the last occurrence of a specific element.
+
+	List<int> numbers = new List<int> { 10, 20, 30, 20 };
+	int index = numbers.LastIndexOf(20);
+	Console.WriteLine(index); // Output: 3 (last occurrence of 20)
+
+12. Count (Property):
+	Gets the number of elements in the list.
+
+	List<int> numbers = new List<int> { 10, 20, 30 };
+	Console.WriteLine(numbers.Count); // Output: 3
+
+13. Sort() :
+	Sorts the elements of the list in ascending order.
+
+	List<int> numbers = new List<int> { 30, 10, 20 };
+	numbers.Sort();
+	Console.WriteLine(string.Join(", ", numbers)); // Output: 10, 20, 30
+
+14. Reverse() :
+	Reverses the order of the elements in the list.
+
+	List<int> numbers = new List<int> { 10, 20, 30 };
+	numbers.Reverse();
+	Console.WriteLine(string.Join(", ", numbers)); // Output: 30, 20, 10
+
+15. ToArray() :
+	Converts the list to an array.
+
+	List<int> numbers = new List<int> { 10, 20, 30 };
+	int[] array = numbers.ToArray();
+	Console.WriteLine(string.Join(", ", array)); // Output: 10, 20, 30
+
+16. Find() :
+	Finds the first element that matches a condition.
+
+	List<int> numbers = new List<int> { 10, 20, 30, 40 };
+	int result = numbers.Find(n => n > 20);
+	Console.WriteLine(result); // Output: 30 (first element greater than 20)
+
+17. FindAll() :
+	Finds all elements that match a condition.
+
+	List<int> numbers = new List<int> { 10, 20, 30, 40 };
+	List<int> results = numbers.FindAll(n => n > 20);
+	Console.WriteLine(string.Join(", ", results)); // Output: 30, 40
+
+18. Exists() :
+	Checks if any elements match a condition.
+
+	List<int> numbers = new List<int> { 10, 20, 30 };
+	bool exists = numbers.Exists(n => n > 25);
+	Console.WriteLine(exists); // Output: True
+
+19. ForEach() :
+	Performs an action on each element of the list.
+
+	List<int> numbers = new List<int> { 10, 20, 30 };
+	numbers.ForEach(n => Console.WriteLine(n * 2)); // Output: 20, 40, 60
+
+
+Dictionary : a dictionary is a collection that stores key-value pairs, where each unique key is associated with one specific value. Here instead of indexes keys are used. Each key in a dictionary must be unique, meaning no two entries can have the same key.
+
+Dictionary Declaration:
+	 Dictionary<string, string> d = new Dictionary<string, string>();
+	 var d = new Dictionary<string, string>();
+
+Dictionary functions include :
+
+1. Add() :
+Adds a key-value pair to the dictionary.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+students.Add(2, "Jane");
+
+Console.WriteLine(students[1]); // Output: John
+
+2. Remove() :
+Removes the element with the specified key.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+students.Add(2, "Jane");
+
+students.Remove(1); // Removes the key 1
+Console.WriteLine(students.ContainsKey(1)); // Output: False
+
+3. ContainsKey() :
+Checks if the dictionary contains a specific key.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+
+bool hasKey = students.ContainsKey(1);
+Console.WriteLine(hasKey); // Output: True
+
+4. ContainsValue() :
+Checks if the dictionary contains a specific value.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+
+bool hasValue = students.ContainsValue("John");
+Console.WriteLine(hasValue); // Output: True
+
+5. TryGetValue() :
+Attempts to get the value associated with a specified key. Returns true if the key exists and sets the value, otherwise returns false.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+
+if (students.TryGetValue(1, out string studentName))
+{
+    Console.WriteLine(studentName); // Output: John
+}
+else
+{
+    Console.WriteLine("Key not found.");
+}
+
+6. Count (Property) :
+Gets the number of key-value pairs in the dictionary.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+students.Add(2, "Jane");
+
+Console.WriteLine(students.Count); // Output: 2
+
+7. Clear() :
+Removes all elements from the dictionary.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+students.Add(2, "Jane");
+
+students.Clear(); // Removes all key-value pairs
+Console.WriteLine(students.Count); // Output: 0
+
+8. Keys (Property) :
+Gets a collection containing all the keys in the dictionary.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+students.Add(2, "Jane");
+
+foreach (int key in students.Keys)
+{
+    Console.WriteLine(key); // Output: 1, 2
+}
+
+9. Values (Property) :
+Gets a collection containing all the values in the dictionary.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+students.Add(2, "Jane");
+
+foreach (string value in students.Values)
+{
+    Console.WriteLine(value); // Output: John, Jane
+}
+
+10. ToList() :
+Converts the dictionary to a list of key-value pairs.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+students.Add(2, "Jane");
+
+List<KeyValuePair<int, string>> studentList = students.ToList();
+foreach (var pair in studentList)
+{
+    Console.WriteLine($"{pair.Key}: {pair.Value}"); // Output: 1: John, 2: Jane
+}
+
+11. ForEach() (with LINQ) :
+Performs an action on each key-value pair using ForEach from LINQ.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+students.Add(2, "Jane");
+
+students.ToList().ForEach(pair => Console.WriteLine($"{pair.Key}: {pair.Value}"));
+// Output: 1: John
+//         2: Jane
+
+12. Enumerator :
+You can loop through the dictionary using an enumerator to access key-value pairs.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+students.Add(2, "Jane");
+
+foreach (KeyValuePair<int, string> student in students)
+{
+    Console.WriteLine($"{student.Key}: {student.Value}"); // Output: 1: John, 2: Jane
+}
+
+13. Index (Indexer) :
+You can access and modify values by using the key indexer.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+students[1] = "Johnny"; // Modify the value for key 1
+Console.WriteLine(students[1]); // Output: Johnny
+
+14. CopyTo() :
+Copies the elements of the dictionary to a KeyValuePair<TKey, TValue>[] array.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+students.Add(2, "Jane");
+
+KeyValuePair<int, string>[] array = new KeyValuePair<int, string>[students.Count];
+students.CopyTo(array, 0);
+
+foreach (var pair in array)
+{
+    Console.WriteLine($"{pair.Key}: {pair.Value}"); // Output: 1: John, 2: Jane
+}
+
+15. Update Value with Index :
+You can update the value associated with a key directly using the index.
+
+Dictionary<int, string> students = new Dictionary<int, string>();
+students.Add(1, "John");
+students[1] = "Updated John"; // Updating value for key 1
+
+Console.WriteLine(students[1]); // Output: Updated John
+ 

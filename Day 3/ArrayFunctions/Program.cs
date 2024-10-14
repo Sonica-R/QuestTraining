@@ -10,27 +10,27 @@ namespace ArrayFunctions
     {
         static void Main(string[] args)
         {
-            //int[] arr = new int[6];
-            //int[] dupArr = new int[6];
-            //var elements = new int[] { 10, 2, 3, 4, 5 };
-            //Console.WriteLine("Enter array elements");
-            //for (int i = 0; i < arr.Length; i++)
-            //{
-            //    arr[i] = int.Parse(Console.ReadLine());
-            //}
-            //Array.Copy(dupArr, arr, 6);
-            //Console.WriteLine("Copied Array:");
-            //for (int j = 0; j < dupArr.Length; j++)
-            //{
-            //    Console.WriteLine(dupArr[j]);
-            //}
-            //Array.Sort(arr);
-            //for (int j = 0; j < dupArr.Length; j++)
-            //{
-            //    Console.WriteLine(arr[j]);
-            //}
-            //Array.Reverse(arr);
-            //var desc = elements.OrderByDescending(x => x).ToArray();
+            int[] arr = new int[6];
+            int[] dupArr = new int[6];
+            var elements = new int[] { 10, 2, 3, 4, 5 };
+            Console.WriteLine("Enter array elements");
+            for (int i = 0; i < arr.Length; i++)
+            {
+                arr[i] = int.Parse(Console.ReadLine());
+            }
+            Array.Copy(dupArr, arr, 6);
+            Console.WriteLine("Copied Array:");
+            for (int j = 0; j < dupArr.Length; j++)
+            {
+                Console.WriteLine(dupArr[j]);
+            }
+            Array.Sort(arr);
+            for (int j = 0; j < dupArr.Length; j++)
+            {
+                Console.WriteLine(arr[j]);
+            }
+            Array.Reverse(arr);
+            var desc = elements.OrderByDescending(x => x).ToArray();
             var text = "  Hello World  ";
             Console.WriteLine(text.Length);
             Console.WriteLine(text.ToUpper());

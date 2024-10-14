@@ -1,0 +1,2 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 9\ArrayResize\obj\Debug\ArrayResize.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 9\ArrayResize\obj\Debug\ArrayResize.csproj.CoreCompileInputs.cache
