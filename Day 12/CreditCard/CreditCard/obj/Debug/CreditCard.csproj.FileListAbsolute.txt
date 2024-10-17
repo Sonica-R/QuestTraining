@@ -1,0 +1,2 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 12\CreditCard\CreditCard\obj\Debug\CreditCard.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 12\CreditCard\CreditCard\obj\Debug\CreditCard.csproj.CoreCompileInputs.cache

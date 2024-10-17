@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CalculatorClass\obj\Debug\CalculatorClass.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CalculatorClass\obj\Debug\CalculatorClass.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CalculatorClass\bin\Debug\CalculatorClass.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CalculatorClass\bin\Debug\CalculatorClass.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CalculatorClass\bin\Debug\CalculatorClass.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CalculatorClass\obj\Debug\CalculatorClass.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CalculatorClass\obj\Debug\CalculatorClass.pdb

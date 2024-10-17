@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 12\Property\PersonProp\bin\Debug\PersonProp.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 12\Property\PersonProp\bin\Debug\PersonProp.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 12\Property\PersonProp\bin\Debug\PersonProp.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 12\Property\PersonProp\obj\Debug\PersonProp.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 12\Property\PersonProp\obj\Debug\PersonProp.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 12\Property\PersonProp\obj\Debug\PersonProp.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 12\Property\PersonProp\obj\Debug\PersonProp.pdb

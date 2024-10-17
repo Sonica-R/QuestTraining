@@ -1,7 +1,0 @@
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CardFunction\obj\Debug\CardFunction.csproj.AssemblyReference.cache
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CardFunction\obj\Debug\CardFunction.csproj.CoreCompileInputs.cache
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CardFunction\bin\Debug\CardFunction.exe.config
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CardFunction\bin\Debug\CardFunction.exe
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CardFunction\bin\Debug\CardFunction.pdb
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CardFunction\obj\Debug\CardFunction.exe
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\CardFunction\obj\Debug\CardFunction.pdb

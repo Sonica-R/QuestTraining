@@ -1,7 +1,0 @@
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\ListAndClass\bin\Debug\ListAndClass.exe.config
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\ListAndClass\bin\Debug\ListAndClass.exe
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\ListAndClass\bin\Debug\ListAndClass.pdb
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\ListAndClass\obj\Debug\ListAndClass.csproj.AssemblyReference.cache
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\ListAndClass\obj\Debug\ListAndClass.csproj.CoreCompileInputs.cache
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\ListAndClass\obj\Debug\ListAndClass.exe
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\ListAndClass\obj\Debug\ListAndClass.pdb

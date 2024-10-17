@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\SmartPhoneClass\bin\Debug\SmartPhoneClass.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\SmartPhoneClass\bin\Debug\SmartPhoneClass.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\SmartPhoneClass\bin\Debug\SmartPhoneClass.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\SmartPhoneClass\obj\Debug\SmartPhoneClass.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\SmartPhoneClass\obj\Debug\SmartPhoneClass.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\SmartPhoneClass\obj\Debug\SmartPhoneClass.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\SmartPhoneClass\obj\Debug\SmartPhoneClass.pdb

@@ -1,2 +1,0 @@
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\StudentClass\obj\Debug\Student.csproj.AssemblyReference.cache
-C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 10\ClassesAndObjects\StudentClass\obj\Debug\Student.csproj.CoreCompileInputs.cache
