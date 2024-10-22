@@ -98,7 +98,7 @@ namespace HealthcareManagement
                 );
             foreach (var item in details)
             {
-                Console.WriteLine($"Name:{item.Name},Age:{item.Age},Medicalcondition:{item.MedicalCondition}");
+                Console.WriteLine($"Name:{item.Name}, Age:{item.Age}, Medicalcondition:{item.MedicalCondition}");
             }
             Console.WriteLine("\nMedical Condition :");
 
@@ -113,12 +113,6 @@ namespace HealthcareManagement
                 }
                 Console.WriteLine();
             }
-
-           
-            
-
-
-
         }
     }
 }
