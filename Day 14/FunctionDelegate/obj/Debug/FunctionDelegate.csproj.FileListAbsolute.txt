@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\FunctionDelegate\bin\Debug\FunctionDelegate.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\FunctionDelegate\bin\Debug\FunctionDelegate.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\FunctionDelegate\bin\Debug\FunctionDelegate.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\FunctionDelegate\obj\Debug\FunctionDelegate.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\FunctionDelegate\obj\Debug\FunctionDelegate.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\FunctionDelegate\obj\Debug\FunctionDelegate.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\FunctionDelegate\obj\Debug\FunctionDelegate.pdb

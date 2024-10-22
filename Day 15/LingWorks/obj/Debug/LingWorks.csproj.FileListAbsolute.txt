@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\LingWorks\bin\Debug\LingWorks.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\LingWorks\bin\Debug\LingWorks.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\LingWorks\bin\Debug\LingWorks.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\LingWorks\obj\Debug\LingWorks.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\LingWorks\obj\Debug\LingWorks.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\LingWorks\obj\Debug\LingWorks.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\LingWorks\obj\Debug\LingWorks.pdb

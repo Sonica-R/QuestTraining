@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\Abstract\bin\Debug\Abstract.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\Abstract\bin\Debug\Abstract.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\Abstract\obj\Debug\Abstract.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 14\Abstract\obj\Debug\Abstract.pdb

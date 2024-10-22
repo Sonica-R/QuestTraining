@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\AccountLinq\bin\Debug\AccountLinq.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\AccountLinq\bin\Debug\AccountLinq.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\AccountLinq\bin\Debug\AccountLinq.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\AccountLinq\obj\Debug\AccountLinq.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\AccountLinq\obj\Debug\AccountLinq.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\AccountLinq\obj\Debug\AccountLinq.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 15\AccountLinq\obj\Debug\AccountLinq.pdb

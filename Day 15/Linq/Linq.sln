@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Ling\Linq.csproj", "{F5722F8E-4887-4240-BE42-C95138306FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csproj", "{7E25A060-0BC1-471E-9732-8FA4933D08F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LingWorks", "..\LingWorks\LingWorks.csproj", "{F4276C2B-2274-440F-AEA8-F1D13E0480D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountLinq", "..\AccountLinq\AccountLinq.csproj", "{16758C62-15AD-400E-A221-512D21EF156F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "..\ExtensionMethods\ExtensionMethods.csproj", "{600C7CD7-AA47-48DC-BE50-7B2C277FD6F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthcarelManagement", "..\HospitalManagement\HealthcarelManagement.csproj", "{585037B2-C545-4F30-A965-625317F6C551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqBasics", "..\LinqBasics\LinqBasics.csproj", "{E14107DB-49ED-4A3F-8705-2F1800A2C796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5722F8E-4887-4240-BE42-C95138306FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5722F8E-4887-4240-BE42-C95138306FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5722F8E-4887-4240-BE42-C95138306FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5722F8E-4887-4240-BE42-C95138306FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E25A060-0BC1-471E-9732-8FA4933D08F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E25A060-0BC1-471E-9732-8FA4933D08F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E25A060-0BC1-471E-9732-8FA4933D08F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E25A060-0BC1-471E-9732-8FA4933D08F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4276C2B-2274-440F-AEA8-F1D13E0480D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4276C2B-2274-440F-AEA8-F1D13E0480D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4276C2B-2274-440F-AEA8-F1D13E0480D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4276C2B-2274-440F-AEA8-F1D13E0480D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16758C62-15AD-400E-A221-512D21EF156F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16758C62-15AD-400E-A221-512D21EF156F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16758C62-15AD-400E-A221-512D21EF156F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16758C62-15AD-400E-A221-512D21EF156F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{600C7CD7-AA47-48DC-BE50-7B2C277FD6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{600C7CD7-AA47-48DC-BE50-7B2C277FD6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{600C7CD7-AA47-48DC-BE50-7B2C277FD6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{600C7CD7-AA47-48DC-BE50-7B2C277FD6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{585037B2-C545-4F30-A965-625317F6C551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585037B2-C545-4F30-A965-625317F6C551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585037B2-C545-4F30-A965-625317F6C551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585037B2-C545-4F30-A965-625317F6C551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E14107DB-49ED-4A3F-8705-2F1800A2C796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14107DB-49ED-4A3F-8705-2F1800A2C796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14107DB-49ED-4A3F-8705-2F1800A2C796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14107DB-49ED-4A3F-8705-2F1800A2C796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E79E8AE7-5DD9-41A5-8087-8E027721A380}
+	EndGlobalSection
+EndGlobal

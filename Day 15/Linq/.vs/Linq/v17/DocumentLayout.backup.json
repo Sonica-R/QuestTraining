@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\Ling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{585037B2-C545-4F30-A965-625317F6C551}|..\\HospitalManagement\\HospitalManagement.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 15\\hospitalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16758C62-15AD-400E-A221-512D21EF156F}|..\\AccountLinq\\AccountLinq.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 15\\accountlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600C7CD7-AA47-48DC-BE50-7B2C277FD6F9}|..\\ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 15\\extensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{600C7CD7-AA47-48DC-BE50-7B2C277FD6F9}|..\\ExtensionMethods\\ExtensionMethods.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 15\\extensionmethods\\intextensionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14107DB-49ED-4A3F-8705-2F1800A2C796}|..\\LinqBasics\\LinqBasics.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 15\\linqbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4276C2B-2274-440F-AEA8-F1D13E0480D5}|..\\LingWorks\\LingWorks.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 15\\lingworks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5722F8E-4887-4240-BE42-C95138306FB0}|Ling\\Ling.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 15\\ling\\ling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5722F8E-4887-4240-BE42-C95138306FB0}|Ling\\Ling.csproj|solutionrelative:ling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E25A060-0BC1-471E-9732-8FA4933D08F4}|Person\\Person.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 15\\ling\\person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E25A060-0BC1-471E-9732-8FA4933D08F4}|Person\\Person.csproj|solutionrelative:person\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\LinqBasics\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LinqBasics\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\LinqBasics\\Program.cs",
+              "RelativeToolTip": "..\\LinqBasics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:07:08.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\HospitalManagement\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HospitalManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\HospitalManagement\\Program.cs*",
+              "RelativeToolTip": "..\\HospitalManagement\\Program.cs*",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAQwFoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:12:28.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntExtensionClass.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\ExtensionMethods\\IntExtensionClass.cs",
+              "RelativeDocumentMoniker": "..\\ExtensionMethods\\IntExtensionClass.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\ExtensionMethods\\IntExtensionClass.cs",
+              "RelativeToolTip": "..\\ExtensionMethods\\IntExtensionClass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:50:05.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\ExtensionMethods\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ExtensionMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\ExtensionMethods\\Program.cs",
+              "RelativeToolTip": "..\\ExtensionMethods\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:49:03.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\AccountLinq\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AccountLinq\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\AccountLinq\\Program.cs",
+              "RelativeToolTip": "..\\AccountLinq\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:31:23.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\LingWorks\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LingWorks\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\LingWorks\\Program.cs",
+              "RelativeToolTip": "..\\LingWorks\\Program.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAUwNIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:07:56.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\Ling\\Person\\Program.cs",
+              "RelativeDocumentMoniker": "Person\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\Ling\\Person\\Program.cs",
+              "RelativeToolTip": "Person\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:56:47.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\Ling\\Ling\\Program.cs",
+              "RelativeDocumentMoniker": "Ling\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 15\\Ling\\Ling\\Program.cs",
+              "RelativeToolTip": "Ling\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T05:41:28.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
