@@ -93,12 +93,12 @@ namespace HealthcareManagement
                     {
                         Name = p.Name,
                         Age = p.Age,
-                        medicalcondition = p.MedicalCondition
+                        MedicalCondition = p.MedicalCondition
                     }
                 );
             foreach (var item in details)
             {
-                Console.WriteLine($"Name:{item.Name},age:{item.Age},medicalcondition:{item.medicalcondition}");
+                Console.WriteLine($"Name:{item.Name},Age:{item.Age},Medicalcondition:{item.MedicalCondition}");
             }
             Console.WriteLine("\nMedical Condition :");
 
