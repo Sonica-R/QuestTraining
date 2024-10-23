@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\GenericClass\bin\Debug\GenericClass.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\GenericClass\bin\Debug\GenericClass.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\GenericClass\bin\Debug\GenericClass.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\GenericClass\obj\Debug\GenericClass.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\GenericClass\obj\Debug\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\GenericClass\obj\Debug\GenericClass.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\GenericClass\obj\Debug\GenericClass.pdb

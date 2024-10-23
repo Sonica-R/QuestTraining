@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\ListDb\bin\Debug\ListDb.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\ListDb\bin\Debug\ListDb.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\ListDb\bin\Debug\ListDb.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\ListDb\obj\Debug\Authors.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\ListDb\obj\Debug\Authors.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\ListDb\obj\Debug\ListDb.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\ListDb\obj\Debug\ListDb.pdb

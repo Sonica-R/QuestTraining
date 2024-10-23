@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\ChangeSignature\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A12E533-C9CA-4DF4-BA21-026FD4EAEB05}|..\\Template\\Template.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 16\\template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC96C235-B337-4044-9484-677298C2190E}|..\\Shapes\\Shapes.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 16\\shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F3D8CF-153D-47ED-B5C0-55469FADF88B}|..\\PersonDetails\\PersonDetails.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 16\\persondetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B189438-D263-4736-9C9A-97B9B22EC6BC}|..\\GenericClass\\GenericClass.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 16\\genericclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B090A391-B46B-4A56-8B9F-8536F7C88D70}|ChangeSignature\\ChangeSignature.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 16\\changesignature\\changesignature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B090A391-B46B-4A56-8B9F-8536F7C88D70}|ChangeSignature\\ChangeSignature.csproj|solutionrelative:changesignature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D036C732-833C-41AE-8EE1-0037FEA3C4C0}|..\\DbConnect\\DbConnect.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 16\\dbconnect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA61BF-025C-47C1-A7A8-E9052820282A}|..\\Books\\Books.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 16\\books\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA61BF-025C-47C1-A7A8-E9052820282A}|..\\Books\\Books.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 16\\books\\data\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA61BF-025C-47C1-A7A8-E9052820282A}|..\\Books\\Books.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 16\\books\\data\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA61BF-025C-47C1-A7A8-E9052820282A}|..\\Books\\Books.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 16\\books\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA61BF-025C-47C1-A7A8-E9052820282A}|..\\Books\\Books.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 16\\books\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA61BF-025C-47C1-A7A8-E9052820282A}|..\\Books\\Books.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 16\\books\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA61BF-025C-47C1-A7A8-E9052820282A}|..\\Books\\Books.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 16\\books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\PersonDetails\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PersonDetails\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\PersonDetails\\Program.cs",
+              "RelativeToolTip": "..\\PersonDetails\\Program.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAwwJ4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:57:34.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\DbConnect\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DbConnect\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\DbConnect\\Program.cs",
+              "RelativeToolTip": "..\\DbConnect\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:12:35.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Shapes\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Shapes\\Program.cs",
+              "RelativeToolTip": "..\\Shapes\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwC4AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:43:25.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\GenericClass\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GenericClass\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\GenericClass\\Program.cs",
+              "RelativeToolTip": "..\\GenericClass\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:26:35.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\ChangeSignature\\ChangeSignature\\Program.cs",
+              "RelativeDocumentMoniker": "ChangeSignature\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\ChangeSignature\\ChangeSignature\\Program.cs",
+              "RelativeToolTip": "ChangeSignature\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:43:45.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Template\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Template\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Template\\Program.cs",
+              "RelativeToolTip": "..\\Template\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:12:17.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\Data\\DataStore.cs",
+              "RelativeDocumentMoniker": "..\\Books\\Data\\DataStore.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\Data\\DataStore.cs",
+              "RelativeToolTip": "..\\Books\\Data\\DataStore.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:46:29.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\GenericResponse.cs",
+              "RelativeDocumentMoniker": "..\\Books\\GenericResponse.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\GenericResponse.cs",
+              "RelativeToolTip": "..\\Books\\GenericResponse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:44:24.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Members.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\Data\\Members.cs",
+              "RelativeDocumentMoniker": "..\\Books\\Data\\Members.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\Data\\Members.cs",
+              "RelativeToolTip": "..\\Books\\Data\\Members.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:34:48.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "..\\Books\\Data\\Book.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\Data\\Book.cs",
+              "RelativeToolTip": "..\\Books\\Data\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:33:19.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "..\\Books\\Repository\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "..\\Books\\Repository\\BookRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:26:35.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\Repository\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "..\\Books\\Repository\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\Repository\\MemberRepository.cs",
+              "RelativeToolTip": "..\\Books\\Repository\\MemberRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:42:00.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Books\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\Books\\Program.cs",
+              "RelativeToolTip": "..\\Books\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:20:18.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

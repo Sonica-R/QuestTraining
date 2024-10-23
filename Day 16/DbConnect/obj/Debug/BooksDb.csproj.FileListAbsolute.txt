@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\DbConnect\bin\Debug\DbConnect.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\DbConnect\bin\Debug\DbConnect.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\DbConnect\bin\Debug\DbConnect.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\DbConnect\obj\Debug\BooksDb.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\DbConnect\obj\Debug\BooksDb.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\DbConnect\obj\Debug\DbConnect.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 16\DbConnect\obj\Debug\DbConnect.pdb
