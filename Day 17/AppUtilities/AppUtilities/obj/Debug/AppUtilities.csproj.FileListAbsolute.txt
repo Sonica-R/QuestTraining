@@ -1,0 +1,6 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\AppUtilities\AppUtilities\bin\Debug\AppUtilities.dll
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\AppUtilities\AppUtilities\bin\Debug\AppUtilities.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\AppUtilities\AppUtilities\obj\Debug\AppUtilities.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\AppUtilities\AppUtilities\obj\Debug\AppUtilities.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\AppUtilities\AppUtilities\obj\Debug\AppUtilities.dll
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\AppUtilities\AppUtilities\obj\Debug\AppUtilities.pdb

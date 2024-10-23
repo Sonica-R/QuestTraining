@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\StringToInt\bin\Debug\StringToInt.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\StringToInt\bin\Debug\StringToInt.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\StringToInt\bin\Debug\StringToInt.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\StringToInt\obj\Debug\StringToInt.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\StringToInt\obj\Debug\StringToInt.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\StringToInt\obj\Debug\StringToInt.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\StringToInt\obj\Debug\StringToInt.pdb

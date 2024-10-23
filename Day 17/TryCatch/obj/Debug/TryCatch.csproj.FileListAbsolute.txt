@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 17\TryCatch\obj\Debug\TryCatch.pdb
