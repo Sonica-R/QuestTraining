@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Property\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F52C1653-B9BC-45AF-8D5B-88666CCC61E5}|Property\\Property.csproj|C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Property\\property\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52C1653-B9BC-45AF-8D5B-88666CCC61E5}|Property\\Property.csproj|solutionrelative:property\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Student\\StudentManage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -28,10 +32,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F52C1653-B9BC-45AF-8D5B-88666CCC61E5}|Property\\Property.csproj|C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Property\\property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F52C1653-B9BC-45AF-8D5B-88666CCC61E5}|Property\\Property.csproj|solutionrelative:property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F52C1653-B9BC-45AF-8D5B-88666CCC61E5}|Property\\Property.csproj|C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Property\\property\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F52C1653-B9BC-45AF-8D5B-88666CCC61E5}|Property\\Property.csproj|solutionrelative:property\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,11 +41,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentManage.cs",
               "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Student\\StudentManage.cs",
               "RelativeDocumentMoniker": "..\\Student\\StudentManage.cs",
@@ -58,20 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Student\\Student.cs",
-              "RelativeDocumentMoniker": "..\\Student\\Student.cs",
-              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Student\\Student.cs",
-              "RelativeToolTip": "..\\Student\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T03:21:16.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Student\\Program.cs",
               "RelativeDocumentMoniker": "..\\Student\\Program.cs",
@@ -79,12 +66,11 @@
               "RelativeToolTip": "..\\Student\\Program.cs",
               "ViewState": "AgIAAFkAAAAAAAAAAAAAAFMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T03:18:31.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T03:18:31.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Inheritance\\Animal.cs",
               "RelativeDocumentMoniker": "..\\Inheritance\\Animal.cs",
@@ -96,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Inheritance\\Program.cs",
               "RelativeDocumentMoniker": "..\\Inheritance\\Program.cs",
@@ -104,12 +90,11 @@
               "RelativeToolTip": "..\\Inheritance\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T11:11:43.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T11:11:43.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Property\\PersonProp\\Person.cs",
               "RelativeDocumentMoniker": "PersonProp\\Person.cs",
@@ -121,7 +106,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Property\\Property\\Student.cs",
+              "RelativeDocumentMoniker": "Property\\Student.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Property\\Property\\Student.cs",
+              "RelativeToolTip": "Property\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:30:15.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Student\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Student\\Student.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Student\\Student.cs",
+              "RelativeToolTip": "..\\Student\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:21:16.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Property\\PersonProp\\Program.cs",
               "RelativeDocumentMoniker": "PersonProp\\Program.cs",
@@ -134,18 +144,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Property\\Property\\Student.cs",
-              "RelativeDocumentMoniker": "Property\\Student.cs",
-              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Property\\Property\\Student.cs",
-              "RelativeToolTip": "Property\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:30:15.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12\\Property\\Property\\Program.cs",
               "RelativeDocumentMoniker": "Property\\Program.cs",

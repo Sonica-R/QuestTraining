@@ -2,6 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\CreditCard\\CreditCard",
+    "\\Property",
     "\\Student"
   ],
   "SelectedNode": "\\Student\\StudentManage.cs",

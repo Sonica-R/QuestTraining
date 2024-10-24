@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 2\PatientAndDoctorMangement\PatientAndDoctorMangement\bin\Debug\PatientAndDoctorMangement.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 2\PatientAndDoctorMangement\PatientAndDoctorMangement\bin\Debug\PatientAndDoctorMangement.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 2\PatientAndDoctorMangement\PatientAndDoctorMangement\bin\Debug\PatientAndDoctorMangement.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 2\PatientAndDoctorMangement\PatientAndDoctorMangement\obj\Debug\PatientAndDoctorMangement.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 2\PatientAndDoctorMangement\PatientAndDoctorMangement\obj\Debug\PatientAndDoctorMangement.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 2\PatientAndDoctorMangement\PatientAndDoctorMangement\obj\Debug\PatientAndDoctorMangement.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Assessment 2\PatientAndDoctorMangement\PatientAndDoctorMangement\obj\Debug\PatientAndDoctorMangement.pdb
