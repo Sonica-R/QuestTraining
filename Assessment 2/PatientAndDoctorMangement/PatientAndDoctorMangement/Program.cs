@@ -12,15 +12,15 @@ namespace PatientAndDoctorMangement
     {
         static void Main(string[] args)
         {
-            var data = new PatientAndDoctorManagement();
-            data.CreatePatientsTable();
-            data.CreateDoctorsTable();
-            data.AddDoctorDetails();
-            data.AddPatientDetails();
-            data.DisplayDoctors(2);
-            data.DisplayPatients(2);
-            data.DeletePatient(1);
-            data.DeleteDoctor(2);
+            var patient = new PatientRepository();
+            patient.AddPatientDetails(new Data.Patients { PatientName = "Alby", Age = 35, Gender = "Male", MedicalCondition = "Fever"});
+            patient.DisplayPatients(2);
+            patient.DeletePatient(1);
+
+            var doctor = new DoctorsRepository();
+            doctor.AddDoctorDetails(new Data.Doctors { DoctorName = "Mr X", Specialization = "Ortho"});
+            doctor.DisplayDoctors(2);
+            doctor.DeleteDoctor(2);
         }
     }
 }

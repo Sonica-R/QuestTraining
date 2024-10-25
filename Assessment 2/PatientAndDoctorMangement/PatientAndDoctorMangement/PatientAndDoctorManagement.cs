@@ -8,18 +8,22 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace PatientAndDoctorMangement
-{
-    class PatientAndDoctorManagement
+{                  
+    public abstract class PatientAndDoctorManagement
     {
-        private SqlConnection _conn;
+        public SqlConnection _conn;
         public PatientAndDoctorManagement()
         {
             _conn = new SqlConnection(CommonRepos.connStr);
         }
-        public void CreatePatientsTable()
+    }
+    public class PatientRepository : PatientAndDoctorManagement
+    {
+        public PatientRepository()
         {
             EnsureConnectionIsOpen();
-            var createPatientsTable = @"CREATE TABLE PATIENTS
+            var createPatientsTable = @"IF NOT EXISTS (SELECT * FROM sysobjects WHERE name = 'PATIENTS', AND xTYPE = 'U')
+                                        CREATE TABLE PATIENTS
                                         ID INT PRIMARY KEY IDENTITY(1, 1) UNIQUE,
                                         PatientName VARCHAR(100),
                                         Age INT,
@@ -29,14 +33,14 @@ namespace PatientAndDoctorMangement
             var command1 = new SqlCommand(createPatientsTable, _conn);
             command1.ExecuteNonQuery();
         }
-        public void AddPatientDetails()
+        public void AddPatientDetails(Data.Patients patients)
         {
             EnsureConnectionIsOpen();
-            //var connStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\sonic\OneDrive\Documents\QuestDb.mdf;Integrated Security=True;Connect Timeout=30;Encrypt=True";
-            //var conn = new SqlConnection(connStr);
-            //conn.Open();
+            /*var connStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\sonic\OneDrive\Documents\QuestDb.mdf;Integrated Security=True;Connect Timeout=30;Encrypt=True";
+            var conn = new SqlConnection(connStr);
+            conn.Open();
 
-            /* var patients = new List<Data.Patients>
+             var patients = new List<Data.Patients>
              {
                  new Data.Patients
                  {
@@ -76,7 +80,7 @@ namespace PatientAndDoctorMangement
              };*/
 
             Console.Write("Enter name of patient : ");
-            var Patientname = Console.ReadLine();
+            var PatientName = Console.ReadLine();
 
             Console.Write("Enter age : ");
             var Age = int.Parse(Console.ReadLine());
@@ -92,12 +96,12 @@ namespace PatientAndDoctorMangement
                                 VALUES
                                 (@PatientName, @Age, @Gender, @MedicalCondition)";
             var command = new SqlCommand(insertPatients, _conn);
-            command.Parameters.AddWithValue("@PatientName", Patientname);
-            command.Parameters.AddWithValue("@Age", Age);
-            command.Parameters.AddWithValue("@Gender", Gender);
-            command.Parameters.AddWithValue("@MedicalCondition", @MedicalCondition);
+            command.Parameters.AddWithValue("@PatientName", patients.PatientName);
+            command.Parameters.AddWithValue("@Age", patients.Age);
+            command.Parameters.AddWithValue("@Gender", patients.Gender);
+            command.Parameters.AddWithValue("@MedicalCondition", patients.MedicalCondition);
             command.ExecuteNonQuery();
-            //conn.Open();
+
             Console.WriteLine("Succesfully inserted");
         }
         public void DisplayPatients(int id)
@@ -117,12 +121,30 @@ namespace PatientAndDoctorMangement
             command.ExecuteNonQuery();
             Console.WriteLine("Successfully updated");
         }
-
-        //Doctors Repos
-        public void CreateDoctorsTable()
+        public void DeletePatient(int id)
         {
             EnsureConnectionIsOpen();
-            var CreateDoctorsTable = @"CREATE TABLE DOCTORS
+            var deletePatient = @"DELETE FROM PATIENTS WHERE ID = @id";
+            var command = new SqlCommand(deletePatient, _conn);
+            command.ExecuteNonQuery();
+            Console.WriteLine("Successfully deleted");
+        }
+        private void EnsureConnectionIsOpen()
+        {
+            if (_conn.State != ConnectionState.Open)
+            {
+                _conn.Open();
+            }
+        }
+    }
+
+    public class DoctorsRepository : PatientAndDoctorManagement
+    {
+        public DoctorsRepository()
+        {
+            EnsureConnectionIsOpen();
+            var CreateDoctorsTable = @"IF NOT EXISTS (SELECT * FROM sysobjects WHERE name = 'DOCTORS', AND xTYPE = 'U')
+                                       CREATE TABLE DOCTORS
                                        ID INT PRIMARY KEY IDENTITY(101, 1) UNIQUE,
                                        DoctorName VARCHAR(100),
                                        Specialization VARCHAR(100),
@@ -131,7 +153,7 @@ namespace PatientAndDoctorMangement
             var command2 = new SqlCommand(CreateDoctorsTable, _conn);
             command2.ExecuteNonQuery();
         }
-        public void AddDoctorDetails()
+        public void AddDoctorDetails(Data.Doctors doctors)
         {
             EnsureConnectionIsOpen();
 
@@ -173,8 +195,8 @@ namespace PatientAndDoctorMangement
                                  (DoctorName, Specialization) VALUES
                                  (@DoctorName, @Specialization)";
             var command = new SqlCommand(insertDoctors, _conn);
-            command.Parameters.AddWithValue("@DoctorName", DoctorName);
-            command.Parameters.AddWithValue("@Specialization", Specialitization);
+            command.Parameters.AddWithValue("@DoctorName", doctors.DoctorName);
+            command.Parameters.AddWithValue("@Specialization", doctors.Specialization);
             command.ExecuteNonQuery();
             Console.WriteLine("Successfully inserted");
         }
@@ -195,16 +217,6 @@ namespace PatientAndDoctorMangement
             command.ExecuteNonQuery();
             Console.WriteLine("Successfully updated");
         }
-
-        public void DeletePatient(int id)
-        {
-            EnsureConnectionIsOpen();
-            var deletePatient = @"DELETE FROM PATIENTS WHERE ID = @id";
-            var command = new SqlCommand(deletePatient, _conn);
-            command.ExecuteNonQuery();
-            Console.WriteLine("Successfully deleted");
-        }
-
         public void DeleteDoctor(int id)
         {
             EnsureConnectionIsOpen();
@@ -221,4 +233,5 @@ namespace PatientAndDoctorMangement
             }
         }
     }
+    
 }
