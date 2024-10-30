@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 21\Cart\bin\Debug\Cart.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 21\Cart\bin\Debug\Cart.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 21\Cart\bin\Debug\Cart.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 21\Cart\obj\Debug\Cart.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 21\Cart\obj\Debug\Cart.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 21\Cart\obj\Debug\Cart.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 21\Cart\obj\Debug\Cart.pdb

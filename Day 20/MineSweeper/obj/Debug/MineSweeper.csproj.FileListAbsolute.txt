@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\MindSweeper\bin\Debug\MindSweeper.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\MindSweeper\bin\Debug\MindSweeper.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\MindSweeper\bin\Debug\MindSweeper.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\MindSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\MindSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\MindSweeper\obj\Debug\MindSweeper.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\MindSweeper\obj\Debug\MindSweeper.pdb

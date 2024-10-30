@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\StonePapreScissor\bin\Debug\StonePapreScissor.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\StonePapreScissor\bin\Debug\StonePapreScissor.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\StonePapreScissor\bin\Debug\StonePapreScissor.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\StonePapreScissor\obj\Debug\StonePaperScissor.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\StonePapreScissor\obj\Debug\StonePaperScissor.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\StonePapreScissor\obj\Debug\StonePapreScissor.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 20\StonePapreScissor\obj\Debug\StonePapreScissor.pdb

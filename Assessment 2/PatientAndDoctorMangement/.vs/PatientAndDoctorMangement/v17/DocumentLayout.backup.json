@@ -3,64 +3,81 @@
   "WorkspaceRootPath": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\patientanddoctormangement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|solutionrelative:patientanddoctormangement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\patientanddoctormangement\\commonrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|solutionrelative:patientanddoctormangement\\commonrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\assessment 2\\patientanddoctormangement\\patientanddoctormangement\\patientanddoctormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\patientanddoctormangement\\data\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|solutionrelative:patientanddoctormangement\\data\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\assessment 2\\patientanddoctormangement\\patientanddoctormangement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|solutionrelative:patientanddoctormangement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\patientanddoctormangement\\patientanddoctormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|solutionrelative:patientanddoctormangement\\patientanddoctormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\patientanddoctormangement\\data\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|solutionrelative:patientanddoctormangement\\data\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\patientanddoctormangement\\data\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FD3EE1B-1AAF-4AD8-90E5-1064E13B0160}|PatientAndDoctorMangement\\PatientAndDoctorMangement.csproj|solutionrelative:patientanddoctormangement\\data\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 329,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 495,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\PatientAndDoctorMangement\\Program.cs",
+              "RelativeDocumentMoniker": "PatientAndDoctorMangement\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\PatientAndDoctorMangement\\Program.cs",
+              "RelativeToolTip": "PatientAndDoctorMangement\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:05:32.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PatientAndDoctorManagement.cs",
               "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\PatientAndDoctorMangement\\PatientAndDoctorManagement.cs",
               "RelativeDocumentMoniker": "PatientAndDoctorMangement\\PatientAndDoctorManagement.cs",
               "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\PatientAndDoctorMangement\\PatientAndDoctorManagement.cs",
               "RelativeToolTip": "PatientAndDoctorMangement\\PatientAndDoctorManagement.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T05:23:43.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Doctors.cs",
               "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\PatientAndDoctorMangement\\Data\\Doctors.cs",
               "RelativeDocumentMoniker": "PatientAndDoctorMangement\\Data\\Doctors.cs",
               "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\PatientAndDoctorMangement\\Data\\Doctors.cs",
               "RelativeToolTip": "PatientAndDoctorMangement\\Data\\Doctors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T04:58:37.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Patients.cs",
               "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\PatientAndDoctorMangement\\Data\\Patients.cs",
               "RelativeDocumentMoniker": "PatientAndDoctorMangement\\Data\\Patients.cs",
@@ -73,34 +90,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CommonRepos.cs",
               "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\PatientAndDoctorMangement\\CommonRepos.cs",
               "RelativeDocumentMoniker": "PatientAndDoctorMangement\\CommonRepos.cs",
               "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\PatientAndDoctorMangement\\CommonRepos.cs",
               "RelativeToolTip": "PatientAndDoctorMangement\\CommonRepos.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T05:33:31.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\PatientAndDoctorMangement\\Program.cs",
-              "RelativeDocumentMoniker": "PatientAndDoctorMangement\\Program.cs",
-              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment 2\\PatientAndDoctorMangement\\PatientAndDoctorMangement\\Program.cs",
-              "RelativeToolTip": "PatientAndDoctorMangement\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:05:32.197Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 71,
+          "DockedWidth": 124,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 136,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -110,15 +124,11 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
             }
           ]
         },
         {
-          "DockedHeight": 21,
+          "DockedWidth": 1232,
           "SelectedChildIndex": -1,
           "Children": [
             {

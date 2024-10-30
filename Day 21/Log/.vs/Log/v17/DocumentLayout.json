@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\Log\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C732F7C-A7DD-4D81-86D5-E72A6ECCD052}|..\\OpenClosed\\OpenClosed.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 21\\openclosed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD1801F-875D-4DE1-8EE9-12D1E28B4D6A}|Log\\Log.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 21\\log\\log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD1801F-875D-4DE1-8EE9-12D1E28B4D6A}|Log\\Log.csproj|solutionrelative:log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A3460B-F16F-437E-A882-1EA5524450D9}|..\\LiskovSubstitution\\LiskovSubstitution.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 21\\liskovsubstitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B0B420-ABC6-4006-9766-3D647733CEB1}|..\\InterfaceSegregation\\InterfaceSegregation.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 21\\interfacesegregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834BCFA6-F1A9-4830-928C-9FD9DBE31A51}|..\\Cart\\Cart.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 21\\cart\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834BCFA6-F1A9-4830-928C-9FD9DBE31A51}|..\\Cart\\Cart.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 21\\cart\\icartoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834BCFA6-F1A9-4830-928C-9FD9DBE31A51}|..\\Cart\\Cart.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 21\\cart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B0B420-ABC6-4006-9766-3D647733CEB1}|..\\InterfaceSegregation\\InterfaceSegregation.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 21\\interfacesegregation\\isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0E6C37-C0B8-4601-BD69-6F4B334D9AD5}|..\\DependencyInversion\\DependencyInversion.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 21\\dependencyinversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834BCFA6-F1A9-4830-928C-9FD9DBE31A51}|..\\Cart\\Cart.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 21\\cart\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E51D33-F1BE-413E-AC5A-0D739E6BA549}|..\\SeriLog\\SeriLog.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 21\\serilog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD1801F-875D-4DE1-8EE9-12D1E28B4D6A}|Log\\Log.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 21\\log\\log\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CBD1801F-875D-4DE1-8EE9-12D1E28B4D6A}|Log\\Log.csproj|solutionrelative:log\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 177,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\Cart\\Cart.cs",
+              "RelativeDocumentMoniker": "..\\Cart\\Cart.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\Cart\\Cart.cs",
+              "RelativeToolTip": "..\\Cart\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:03:18.35Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICartOperations.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\Cart\\ICartOperations.cs",
+              "RelativeDocumentMoniker": "..\\Cart\\ICartOperations.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\Cart\\ICartOperations.cs",
+              "RelativeToolTip": "..\\Cart\\ICartOperations.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:59:34.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItems.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\Cart\\CartItems.cs",
+              "RelativeDocumentMoniker": "..\\Cart\\CartItems.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\Cart\\CartItems.cs",
+              "RelativeToolTip": "..\\Cart\\CartItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:13:39.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\Log\\Log\\Program.cs",
+              "RelativeDocumentMoniker": "Log\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\Log\\Log\\Program.cs",
+              "RelativeToolTip": "Log\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAADwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:02:26.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\LiskovSubstitution\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LiskovSubstitution\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\LiskovSubstitution\\Program.cs",
+              "RelativeToolTip": "..\\LiskovSubstitution\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:03:28.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\InterfaceSegregation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSegregation\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\InterfaceSegregation\\Program.cs",
+              "RelativeToolTip": "..\\InterfaceSegregation\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:56:41.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\OpenClosed\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OpenClosed\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\OpenClosed\\Program.cs",
+              "RelativeToolTip": "..\\OpenClosed\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:06:14.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\Cart\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Cart\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\Cart\\Program.cs",
+              "RelativeToolTip": "..\\Cart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:58:44.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISP.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\InterfaceSegregation\\ISP.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceSegregation\\ISP.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\InterfaceSegregation\\ISP.cs",
+              "RelativeToolTip": "..\\InterfaceSegregation\\ISP.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:58:29.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\DependencyInversion\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DependencyInversion\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\DependencyInversion\\Program.cs",
+              "RelativeToolTip": "..\\DependencyInversion\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:38:02.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\Log\\Log\\App.config",
+              "RelativeDocumentMoniker": "Log\\App.config",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\Log\\Log\\App.config",
+              "RelativeToolTip": "Log\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-29T04:40:41.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\SeriLog\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SeriLog\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 21\\SeriLog\\Program.cs",
+              "RelativeToolTip": "..\\SeriLog\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T06:05:42.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 59,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
