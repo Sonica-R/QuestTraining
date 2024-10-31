@@ -1,14 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Assessment 2",
+    "\\Assessment 2\\PatientAndDoctorMangement",
+    "\\Assessment 2\\PatientAndDoctorMangement\\PatientAndDoctorMangement",
     "\\Day 12",
     "\\Day 12\\Inheritance",
     "\\Day 14",
     "\\Day 14\\ActionDelegate",
-    "\\Day 14\\ActionDelegate\\ActionDelegate",
-    "\\Day 6",
-    "\\Day 8"
+    "\\Day 9"
   ],
-  "SelectedNode": "\\Day 14\\ActionDelegate\\ActionDelegate\\Program.cs",
+  "SelectedNode": "\\Assessment 2\\PatientAndDoctorMangement\\PatientAndDoctorMangement\\CommonRepos.cs",
   "PreviewInSolutionExplorer": false
 }

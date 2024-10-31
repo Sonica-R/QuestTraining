@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 22\\SocialMedia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E7715A-9ADA-4CDE-B8C4-40EA49422C32}|..\\EchoClient\\EchoClient.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 22\\echoclient\\clientbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7B7538-5E43-4C09-BB1D-0B8A05E6A1D1}|..\\EchoSrever\\EchoServer.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 22\\echosrever\\serverbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7B7538-5E43-4C09-BB1D-0B8A05E6A1D1}|..\\EchoSrever\\EchoServer.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 22\\echosrever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E7715A-9ADA-4CDE-B8C4-40EA49422C32}|..\\EchoClient\\EchoClient.csproj|c:\\users\\sonic\\onedrive\\documents\\github\\questtraining\\day 22\\echoclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 22\\EchoClient\\ClientBuilder.cs",
+              "RelativeDocumentMoniker": "..\\EchoClient\\ClientBuilder.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 22\\EchoClient\\ClientBuilder.cs",
+              "RelativeToolTip": "..\\EchoClient\\ClientBuilder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:52:04.072Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 22\\EchoClient\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EchoClient\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 22\\EchoClient\\Program.cs",
+              "RelativeToolTip": "..\\EchoClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:47:38.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 22\\EchoSrever\\ServerBuilder.cs",
+              "RelativeDocumentMoniker": "..\\EchoSrever\\ServerBuilder.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 22\\EchoSrever\\ServerBuilder.cs",
+              "RelativeToolTip": "..\\EchoSrever\\ServerBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:02:50.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 22\\EchoSrever\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EchoSrever\\Program.cs",
+              "ToolTip": "C:\\Users\\sonic\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 22\\EchoSrever\\Program.cs",
+              "RelativeToolTip": "..\\EchoSrever\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T09:00:03.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

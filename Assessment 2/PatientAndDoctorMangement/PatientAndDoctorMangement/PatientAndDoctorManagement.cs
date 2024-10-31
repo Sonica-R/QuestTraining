@@ -6,6 +6,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Runtime.CompilerServices;
 
 namespace PatientAndDoctorMangement
 {                  
@@ -22,13 +23,13 @@ namespace PatientAndDoctorMangement
         public PatientRepository()
         {
             EnsureConnectionIsOpen();
-            var createPatientsTable = @"IF NOT EXISTS (SELECT * FROM sysobjects WHERE name = 'PATIENTS', AND xTYPE = 'U')
-                                        CREATE TABLE PATIENTS
-                                        ID INT PRIMARY KEY IDENTITY(1, 1) UNIQUE,
+            var createPatientsTable = @"IF NOT EXISTS (SELECT * FROM sysobjects WHERE name = 'PATIENTS' AND xtype = 'U')
+                                        CREATE TABLE PATIENTS(
+                                        ID INT PRIMARY KEY IDENTITY(1, 1),
                                         PatientName VARCHAR(100),
                                         Age INT,
                                         Gender VARCHAR(10),
-                                        MedicalCondition VARCHAR(200)";
+                                        MedicalCondition VARCHAR(200))";
 
             var command1 = new SqlCommand(createPatientsTable, _conn);
             command1.ExecuteNonQuery();
@@ -36,11 +37,8 @@ namespace PatientAndDoctorMangement
         public void AddPatientDetails(Data.Patients patients)
         {
             EnsureConnectionIsOpen();
-            /*var connStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\sonic\OneDrive\Documents\QuestDb.mdf;Integrated Security=True;Connect Timeout=30;Encrypt=True";
-            var conn = new SqlConnection(connStr);
-            conn.Open();
 
-             var patients = new List<Data.Patients>
+             /*var patients = new List<Data.Patients>
              {
                  new Data.Patients
                  {
@@ -143,12 +141,12 @@ namespace PatientAndDoctorMangement
         public DoctorsRepository()
         {
             EnsureConnectionIsOpen();
-            var CreateDoctorsTable = @"IF NOT EXISTS (SELECT * FROM sysobjects WHERE name = 'DOCTORS', AND xTYPE = 'U')
-                                       CREATE TABLE DOCTORS
-                                       ID INT PRIMARY KEY IDENTITY(101, 1) UNIQUE,
+            var CreateDoctorsTable = @"IF NOT EXISTS (SELECT * FROM sysobjects WHERE name = 'DOCTORS', AND xtype = 'U')
+                                       CREATE TABLE DOCTORS(
+                                       ID INT PRIMARY KEY IDENTITY(101, 1),
                                        DoctorName VARCHAR(100),
                                        Specialization VARCHAR(100),
-                                       PatientID INT IDENTITY(1, 1)";
+                                       PatientID INT IDENTITY(1, 1))";
 
             var command2 = new SqlCommand(CreateDoctorsTable, _conn);
             command2.ExecuteNonQuery();

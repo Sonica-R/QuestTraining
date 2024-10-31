@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoSrever\bin\Debug\EchoSrever.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoSrever\bin\Debug\EchoSrever.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoSrever\bin\Debug\EchoSrever.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoSrever\obj\Debug\EchoServer.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoSrever\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoSrever\obj\Debug\EchoSrever.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoSrever\obj\Debug\EchoSrever.pdb

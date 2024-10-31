@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PatientAndDoctorMangement",
+    "\\PatientAndDoctorMangement\\PatientAndDoctorMangement"
   ],
+  "SelectedNode": "\\PatientAndDoctorMangement\\PatientAndDoctorMangement.sln",
   "PreviewInSolutionExplorer": false
 }

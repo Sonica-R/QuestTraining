@@ -1,0 +1,7 @@
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoClient\bin\Debug\EchoClient.exe.config
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoClient\bin\Debug\EchoClient.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoClient\bin\Debug\EchoClient.pdb
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoClient\obj\Debug\EchoClient.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoClient\obj\Debug\EchoClient.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoClient\obj\Debug\EchoClient.exe
+C:\Users\sonic\OneDrive\Documents\GitHub\QuestTraining\Day 22\EchoClient\obj\Debug\EchoClient.pdb
